@@ -1,4 +1,5 @@
 # 42 Cub 3D Project ReadMe
+# by [bbenidar](https://github.com/bbenidar) && [moudrib](https://github.com/mouadd55)
 
 Welcome to the 42 Cub 3D project! In this project, you will be creating a simple 3D game engine that can render cubes in a 3D environment. This ReadMe file will provide you with important information on how to build and run the project, as well as some optional bonus features.
 
